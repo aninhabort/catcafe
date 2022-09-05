@@ -1,6 +1,7 @@
 # CatCafé
 
-Projeto de um site de uma cafeteria com gatos
+- Projeto de um site de uma cafeteria com gatos
+- Projeto individual realizado pela Rocketseat
 
 ## Linguagens utilizadas
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
