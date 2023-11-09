@@ -1,8 +1,8 @@
 # CatCafé
 
-Projeto desenvolvido no Next Level Week da Rocketseat
+Project developed at Rocketseat's Next Level Week
 
-## Lenguages
+## Languages
 - HTML
 - CSS
 - JavaScript
